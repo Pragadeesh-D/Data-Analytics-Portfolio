@@ -3,6 +3,8 @@
 An end-to-end data analytics project exploring road accident data from the UK. This project uses Python for data processing, analysis, and visualization, and includes a Power BI dashboard structure for executive reporting.
 
 ## 📋 Project Overview
+![RoadSafe Dashboard](./visuals/powerbi_dashboard/05_PBI_Overview.png)
+
 This project identifies high-risk regions, seasonal accident patterns, and severity trends to provide data-driven safety recommendations.
 
 Key analytical steps:
