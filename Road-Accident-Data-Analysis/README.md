@@ -3,8 +3,6 @@
 An end-to-end data analytics project exploring road accident data from the UK. This project uses Python for data processing, analysis, and visualization, and includes a Power BI dashboard structure for executive reporting.
 
 ## 📋 Project Overview
-![RoadSafe Dashboard](./visuals/powerbi_dashboard/05_PBI_Overview.png)
-
 This project identifies high-risk regions, seasonal accident patterns, and severity trends to provide data-driven safety recommendations.
 
 Key analytical steps:
@@ -62,3 +60,9 @@ Open the `.pbix` file in the `powerbi/` folder. To load your data:
 1. Click **Get Data** > **Text/CSV**.
 2. Select `dataset/processed/accident_cleaned.csv`.
 3. Create the measures defined in the dashboard requirements (Total Accidents, Total Casualties, etc.).
+## 📊 Dashboard & Visualizations
+
+### RoadSafe Executive Dashboard
+![RoadSafe Dashboard](./visuals/powerbi_dashboard/05_PBI_Overview.png)
+
+The Power BI dashboard provides an interactive overview of road safety metrics, allowing users to filter by Year, Region, and Weather conditions to uncover deep insights.
