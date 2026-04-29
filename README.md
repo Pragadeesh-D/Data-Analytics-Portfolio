@@ -44,8 +44,8 @@ I am passionate about building data-driven stories through interactive dashboard
 ---
 
 ## 📫 Connect with me
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [https://linkedin.com/in/pragadeesh-d-4041a52a6]
+- **Email**: [dpragadeesh66@gmail.com]
 
 ---
 *⭐ "Turning raw data into clear, actionable business strategies."*
