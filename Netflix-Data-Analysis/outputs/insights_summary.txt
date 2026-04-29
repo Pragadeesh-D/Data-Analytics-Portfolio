@@ -1,0 +1,71 @@
+=== NETFLIX DATA ANALYSIS INSIGHTS ===
+
+1. Content Type Distribution:
+   - Movie: 6131
+   - TV Show: 2676
+   *Insight: Movies dominate Netflix content, making up 69.6% of the catalog compared to TV Shows.
+
+2. Top 10 Genres:
+   - International Movies: 2752
+   - Dramas: 2427
+   - Comedies: 1674
+   - International TV Shows: 1351
+   - Documentaries: 869
+   - Action & Adventure: 859
+   - TV Dramas: 763
+   - Independent Movies: 756
+   - Children & Family Movies: 641
+   - Romantic Movies: 616
+   *Insight: International Movies and Dramas are the most popular genres produced/licensed on Netflix.
+
+3. Yearly Release Trend (Last 15 Years):
+   - 2007: 88
+   - 2008: 136
+   - 2009: 152
+   - 2010: 194
+   - 2011: 185
+   - 2012: 237
+   - 2013: 288
+   - 2014: 352
+   - 2015: 560
+   - 2016: 902
+   - 2017: 1032
+   - 2018: 1147
+   - 2019: 1030
+   - 2020: 953
+   - 2021: 592
+   *Insight: Content production increased rapidly after 2015, peaking around 2018-2019 before dipping slightly, likely due to market saturation or COVID-19 delays.
+
+4. Top 10 Producing Countries:
+   - United States: 3690
+   - India: 1046
+   - United Kingdom: 806
+   - Canada: 445
+   - France: 393
+   - Japan: 318
+   - Spain: 232
+   - South Korea: 231
+   - Germany: 226
+   - Mexico: 169
+   *Insight: The United States and India are by far the largest producers of content available on Netflix.
+
+5. Rating Distribution:
+   - TV-MA: 3207
+   - TV-14: 2160
+   - TV-PG: 863
+   - R: 799
+   - PG-13: 490
+   - TV-Y7: 334
+   - TV-Y: 307
+   - PG: 287
+   - TV-G: 220
+   - NR: 80
+   - G: 41
+   - TV-Y7-FV: 6
+   - Unknown: 4
+   - NC-17: 3
+   - UR: 3
+   - 74 min: 1
+   - 84 min: 1
+   - 66 min: 1
+   *Insight: TV-MA (Mature Audiences) is the most common rating, indicating a strong focus on adult-oriented content.
